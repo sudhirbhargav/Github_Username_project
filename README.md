@@ -1,1 +1,1 @@
-# https://github-username-sid.netlify.app
+https://github-username-sid.netlify.app

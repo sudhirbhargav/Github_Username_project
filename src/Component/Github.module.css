@@ -1,0 +1,20 @@
+.gitimage{
+    width: 300px;
+    border-radius: 20px;
+}
+.gitcard{
+    border-radius: 20px;
+    text-align: center;
+    display: inline-flex;
+    margin: 3%;
+    background-color: rgb(218, 218, 218);
+
+}
+.gita{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.container{
+    text-align: center;
+}

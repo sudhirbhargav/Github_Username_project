@@ -8,8 +8,6 @@ In this website a user can search his or her username of Github which is fetched
 </tr>
 </table>
 
-## Github_Username_Finder
-
 ### Made by[@sudhir bhargav](https://github.com/sudhirbhargav)
 ### Here user can search for their Github username
 
